@@ -22,7 +22,7 @@ This project is a starting point for a Flutter application.
     }```
 
 
-- You can preview the app here https://appetize.io/app/rr7fshkt6uw52ikewyn3z4r3w4. Ensure to select andriod 12.0 to test the app
+- You can preview the app here https://appetize.io/app/ugo2jbj2po7ffeugf3fwhd67ty?device=pixel4&osVersion=12.0&scale=75. Ensure to select andriod 12.0 to test the app
 
 ## For Better Understanding of Flutter 
 Here are a few resources to get you started if this is your first Flutter project:
