@@ -46,7 +46,7 @@ class ProfileScreen extends StatelessWidget {
                     ),
                   );
                 },
-                icon: const Icon(Icons.login)
+                icon: const Icon(Icons.login, color: Colors.white,)
             ),
           )
         ],
