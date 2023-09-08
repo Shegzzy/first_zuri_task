@@ -21,7 +21,7 @@ This project is a starting point for a Flutter application.
         versionName flutterVersionName
     }```
 
-
+- You can preview the app here https://appetize.io/app/rr7fshkt6uw52ikewyn3z4r3w4. Ensure to select andriod 12.0 to test the app
 
 ## For Better Understanding of Flutter 
 Here are a few resources to get you started if this is your first Flutter project:
