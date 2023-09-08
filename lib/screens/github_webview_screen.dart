@@ -34,9 +34,11 @@ class _GitWebViewScreenState extends State<GitWebViewScreen> {
         },
       ))
       ..loadRequest(
-        Uri.parse('https://github.com/Shegzzy/first_zuri_task'),
+        Uri.parse('https://github.com/Shegzzy'),
       )
+      ..clearLocalStorage()
       ..setJavaScriptMode(JavaScriptMode.unrestricted);
+
   }
   @override
   Widget build(BuildContext context) {
